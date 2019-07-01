@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family: 'ubuntuz';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Ubuntu-Regular.ttf');
+}
+@font-face {
+    font-family: 'ubuntuz';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../fonts/Ubuntu-Italic.ttf');
+}
+@font-face {
+    font-family: 'ubuntuz';
+    font-weight: bolder;
+    font-style: normal;
+    src: url('../fonts/Ubuntu-Bold.ttf');
+}
+@font-face {
+    font-family: 'ubuntuz';
+    font-weight: bolder;
+    font-style: italic;
+    src: url('../fonts/Ubuntu-BoldItalic.ttf');
+}
+@font-face {
+    font-family: 'ubuntuz';
+    font-weight: lighter;
+    font-style: normal;
+    src: url('../fonts/Ubuntu-Light.ttf');
+}
+@font-face {
+    font-family: 'ubuntuz';
+    font-weight: lighter;
+    font-style: italic;
+    src: url('../fonts/Ubuntu-LightItalic.ttf');
+}
+@font-face {
+    font-family: 'ubuntuz';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../fonts/Ubuntu-Medium.ttf');
+}
+@font-face {
+    font-family: 'ubuntuz';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../fonts/Ubuntu-MediumItalic.ttf');
+}
+
+@font-face {
+    font-family: 'yesteryearz';
+    src: url('../fonts/Yesteryear-Regular_0.ttf');
+}
